@@ -1,0 +1,15 @@
+{
+  "name": "Name of your disord bot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "The main .js file, example b1_battle_droid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "opusscript": "0.0.4"
+  }
+}

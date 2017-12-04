@@ -1,0 +1,4 @@
+{
+  "token": "This is where you insert your token",
+  "prefix": "This is what you want to your command prefix to be, for example, having ! in this feild would mean the correct command is !help etc." 
+}

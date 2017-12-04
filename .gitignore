@@ -1,0 +1,8 @@
+# Dependecies
+node_modules/
+
+# Resources
+_media/
+
+# Configuration
+config.json
