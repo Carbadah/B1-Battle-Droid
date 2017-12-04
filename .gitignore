@@ -1,8 +1,5 @@
-# Dependecies
 node_modules/
-
-# Resources
 _media/
-
-# Configuration
 config.json
+package.json
+B1_Battle_Droid.bat
